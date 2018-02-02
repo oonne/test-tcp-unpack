@@ -1,0 +1,14 @@
+{
+  "name": "testTcpUnpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "JAY",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}
